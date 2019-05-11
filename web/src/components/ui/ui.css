@@ -148,6 +148,7 @@ button.card-action:focus.focus-visible path {
         width: 15px;
         height: 15px;
         box-sizing: border-box;
+        -webkit-appearance: checkbox;
     }
 
     & input {
